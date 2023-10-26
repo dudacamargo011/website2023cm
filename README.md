@@ -1,2 +1,2 @@
-# website2023cm
+# website2023
 site desenvolvido nas aulas de pensamento computacional
